@@ -7,7 +7,8 @@ Bienvenido a la wiki del proyecto **BI-Etapa1**. Aquí encontrarás la documenta
 
 - [Sección 1 – Documentación del proceso de aprendizaje automático](https://github.com/SamuelRT123/BI-Etapa1/wiki/Secci%C3%B3n-1:-Documentaci%C3%B3n-del-proceso-de-aprendizaje-autom%C3%A1tico.)  
 - [Sección 2, 3 y 4 – Entendimiento, preparación de datos, modelado y resultados](https://github.com/SamuelRT123/BI-Etapa1/wiki/Secci%C3%B3n-2.-Entendimiento-y-preparaci%C3%B3n-de-los-datos.)
-(El video de explicación se encuentra subido al repositorio y en la sección 4)
+
+(El video de explicación se encuentra subido al repositorio y al final de la sección 4 se encuentra subido también)
 - [Sección 5 – Trabajo en equipo](https://github.com/SamuelRT123/BI-Etapa1/wiki/Secci%C3%B3n-5.-Trabajo-en-equipo)  
 
 ## Equipo
