@@ -16,5 +16,4 @@ Bienvenido a la wiki del proyecto **BI-Etapa1**. Aquí encontrarás la documenta
 - **David Quiroga- 202310820** – Líder de datos  
 - **Samuel Rodríguez- 202310140** – Líder de analítica
 
-https://youtu.be/HXwhBoRPtm8
-
+https://youtu.be/NUzyzEmtB20
